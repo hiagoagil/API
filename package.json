@@ -1,0 +1,17 @@
+{
+  "name": "fakerestapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.3.1",
+    "cypress": "^13.6.1",
+    "cypress-plugin-api": "^2.11.1"
+  }
+}
